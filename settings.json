@@ -1,0 +1,23 @@
+{
+    "url" : "",
+    "ftp_host_ip_address" : "",
+    "ftp_port" : "",
+    "ftp_username" : "",
+    "ftp_password" : "",
+
+    "login_details" : 
+    {
+        "username" : "", 
+        "password" : ""
+    },
+    "download_details" :
+    {
+        "destination" : "",
+        "isBasePath" : "",
+        "start" : "",
+        "tags" : 
+        [
+            ""
+        ]
+    }
+}
